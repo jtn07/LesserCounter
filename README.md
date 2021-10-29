@@ -1,5 +1,9 @@
 # LesserCounter
 
+
+![image](https://user-images.githubusercontent.com/51705706/139429461-09648ace-39bf-47f2-8ca3-a7b289b846dd.png)
+
+
 The Problem was solved using 2 approaches
 1. create a balanced binary search tree
    search for the lesser elements accordingly
